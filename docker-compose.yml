@@ -9,7 +9,7 @@ services:
       - 5435:5432
 
     environment:
-      - POSTGRES_DB=AniDB
+      - POSTGRES_DB=aniDB
       - POSTGRES_USER=anish
       - POSTGRES_PASSWORD=anish
 
